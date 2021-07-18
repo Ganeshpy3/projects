@@ -1,6 +1,8 @@
 # Projects
 
 ## Machine Learning Projects
+### Regression
+1.Flight Fare Prediction
 ### Classification 
 1.Stroke prediction
 
