@@ -49,11 +49,14 @@ class TwitterSentimentAnalysis:
     def sentiment(self):
         val=self.cleaned_tweet["Polarity"].value_counts(normalize=True)
         return val*100
+#go to Twitter Developer account
+consumer_key="Your_Cusumer_Key"
+consumer_secret="Consumer_Secret"
+access_token="ToKen"
+access_token_secret="Token"
 
-consumer_key="8nbblre0VsrFfVFUyhphWN5La"
-consumer_secret="F2nxcUWdsmth0XpTFyyesQclLfUnOHTWtObYSgf4nmRAay8ItE"
-access_token="724463193754611712-Tdu1XzbKzZpsD1wdsnC8QZlFSYpi1yQ"
-access_token_secret="45AVy5pCIvknoU2LVTxbcu59igG76M75KzrDDYMFOn5wn"
+
+
 username=input("Twitter Account")
 if __name__=='__main__':
     app=TwitterSentimentAnalysis(consumer_key,consumer_secret,access_token,access_token_secret)
