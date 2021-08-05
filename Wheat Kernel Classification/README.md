@@ -5,16 +5,11 @@ the experiment. High quality visualization of the internal kernel structure was 
 
 The data set can be used for the tasks of classification and cluster analysis.
 
-
+### Abstract
 Data Set Characteristics:  Multivariate
-
 Number of Instances: 210
-
 Area: Life
-
 Attribute Characteristics:Real
-
 Number of Attributes:7
-
 Associated Tasks: Classification, Clustering
 
