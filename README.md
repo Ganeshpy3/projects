@@ -7,7 +7,7 @@
 1. Stroke prediction
 2. Wheat Kernal Classification
 
-### clustering 
+### Clustering 
 1. Uber  car distribution
 
 
