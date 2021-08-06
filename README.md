@@ -5,6 +5,7 @@
 1. Flight Fare Prediction
 ### Classification 
 1. Stroke prediction
+2. Wheat Kernal Classification
 
 ### clustering 
 1. Uber  car distribution
